@@ -2,9 +2,9 @@
 
 ## Student Details
 
-Name: YOUR_NAME
-Roll Number: YOUR_ROLLNUMBER
-Email: YOUR_IITM_EMAIL
+Name: Aman Hashmi
+Roll Number: 25f3000163
+Email: 25f3000163@ds.study.iitm.ac.in
 
 ---
 
